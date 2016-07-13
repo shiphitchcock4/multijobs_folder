@@ -4,11 +4,11 @@ jobs:
     steps:
       - GET: sample-newtest001
       - GET: new-imagemultijobs
-      - GET: triggetestp
+      - GET: triggetestpp
 
   - name: ecstestmuljobs2
     type: manifest
     steps:
       - GET: sample-newtest001
       - GET: new-imagemultijobs
-      - GET: triggetestp
+      - GET: triggetestpp
