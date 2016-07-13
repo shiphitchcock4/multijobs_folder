@@ -2,13 +2,13 @@ jobs:
   - name: ecstestmuljobs1
     type: manifest
     steps:
-      - GET: sample-newtest001
+      #- GET: sample-newtest001
       - GET: new-imagemultijobs
       - GET: triggertestpp
 
   - name: ecstestmuljobs2
     type: manifest
     steps:
-      - GET: sample-newtest001
+      #- GET: sample-newtest001
       - GET: new-imagemultijobs
       - GET: triggertestpp
