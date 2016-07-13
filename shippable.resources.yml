@@ -1,5 +1,5 @@
 resources:
-  - name: sample-new
+  - name: sample-newtest001
     type: gitRepo
     integration: shiphitchcock4-github
     source:
