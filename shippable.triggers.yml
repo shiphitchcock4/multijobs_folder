@@ -2,7 +2,7 @@ triggers:
   - name: triggertestpp
     type: trigger
     source:
-      message: 'fdduffdgl1vvh23'
+      message: 'fdduffdgrl1vvh23'
       
   #- name: triggertest2
   #  type: trigger
