@@ -1,12 +1,12 @@
 resources:
-  - name: sample-script1
+  - name: sample-new
     type: gitRepo
     integration: shiphitchcock4-github
     source:
-      name: shiphitchcock4/sample-script
+      name: shiphitchcock4/sample_node_new
       branch: master
       
-  - name: new-imagenode2
+  - name: new-imagemultijobs
     type: image
     integration: ship4-docker
     source:
